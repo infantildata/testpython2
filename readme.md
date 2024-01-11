@@ -1,8 +1,8 @@
-#run
+# Run
 
 `python3 app.py`
 
-#docker
+# Docker
 https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/
 
 `docker build --tag python-docker .`
